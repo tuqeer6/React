@@ -19,3 +19,12 @@ import {a} from './app.js'
 **npm create vite**
 **npm run dev**
 **rafce**
+
+
+**Git and GitHub**
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tuqeer6/React.git
+git push -u origin main
